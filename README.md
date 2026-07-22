@@ -1,6 +1,6 @@
 # hattensubs
 
-**HattenSubs**, anime fansub ekipleri için geliştirilen modern ve modüler bir içerik yönetim platformudur. Anime kataloğu, bölüm yönetimi, yayın takvimi, yönetim paneli, REST API ve Discord botu gibi bileşenleri tek bir ekosistemde bir araya getirerek yayın süreçlerini kolaylaştırmayı ve topluluk etkileşimini artırmayı hedefler.
+**HattenSubs**, fansub ekipleri için geliştirilen modern ve modüler bir içerik yönetim platformudur. Anime kataloğu, bölüm yönetimi, yayın takvimi, yönetim paneli, REST API ve Discord botu gibi bileşenleri tek bir ekosistemde bir araya getirerek yayın süreçlerini kolaylaştırmayı ve topluluk etkileşimini artırmayı hedefler.
 <!--
 Source - https://stackoverflow.com/q/41604263
 Posted by zjffdu, modified by community. See post 'Timeline' for change history
