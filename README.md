@@ -7,7 +7,7 @@ Posted by zjffdu, modified by community. See post 'Timeline' for change history
 Retrieved 2026-07-22, License - CC BY-SA 4.0
 -->
 
-![image]([https://cdn.auvic.cc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-07-22%20221656.png](https://cdn.auvic.cc/FireShot%20Capture%20029%20-%20HattenSubs%20-%20localhost.png))
+![image](https://cdn.auvic.cc/FireShot%20Capture%20029%20-%20HattenSubs%20-%20localhost.png)
 
 ## Kapsanan Klasörler
 
